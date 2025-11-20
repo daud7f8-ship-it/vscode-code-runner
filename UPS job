@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>USA Remote Job Hiring Now</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f3f4f6;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .container {
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      max-width: 400px;
+      text-align: center;
+    }
+    h1 {
+      color: #1a73e8;
+      margin-bottom: 10px;
+    }
+    p {
+      color: #555;
+      margin-bottom: 20px;
+    }
+    .button {
+      display: inline-block;
+      text-decoration: none;
+      background: #1a73e8;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 8px;
+      margin: 8px;
+      font-weight: bold;
+    }
+    .note {
+      font-size: 14px;
+      color: #777;
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>USA Remote Job Hiring Now</h1>
+    <p>No Experience Needed • Work From Home • Weekly Payout</p><a class="button" href="#">Apply Now</a>
+<a class="button" href="#" style="background:#34a853;">Check Eligibility</a>
+
+<p class="note">100% Free Apply • Limited Positions Available</p>
+
+  </div>
+</body>
+</html>
